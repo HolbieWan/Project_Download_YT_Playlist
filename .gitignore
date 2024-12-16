@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 /YT_Downloader/downloads
+
+/Download_From_Terminal/chromedriver-mac-arm64
