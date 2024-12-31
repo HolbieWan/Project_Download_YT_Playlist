@@ -1,0 +1,5 @@
+[youtube:tab] Extracting URL: https://www.youtube.com/playlist?list=PLmoBcDX6DHbrE32F76_bVg5qZC8GWkR9y
+Using options: {'format': 'bestaudio', 'outtmpl': './downloads_2/%(playlist_title)s/%(track_number)s - %(title)s.%(ext)s', 'postprocessors': [{'key': 'FFmpegExtractAudio', 'preferredcodec': 'mp3', 'preferredquality': '0'}], 'cookies': '/Users/mjx/Documents/Developper_Web/Projet_DL_Playlist/cookies.txt', 'verbose': True, 'http_headers': {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'Accept-Language': 'en-us,en;q=0.5', 'Sec-Fetch-Mode': 'navigate'}}
+Starting download of playlist: https://www.youtube.com/playlist?list=PLmoBcDX6DHbrE32F76_bVg5qZC8GWkR9y
+[youtube:tab] PLmoBcDX6DHbrE32F76_bVg5qZC8GWkR9y: Downloading webpage
+Error during download: [0;31mERROR:[0m [youtube:tab] PLmoBcDX6DHbrE32F76_bVg5qZC8GWkR9y: YouTube said: The playlist does not exist.
